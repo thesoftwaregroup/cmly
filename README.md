@@ -1,4 +1,4 @@
-cmly
+CMly
 ====
 
 CMly Simply Powerful Content Management
